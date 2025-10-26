@@ -49,8 +49,11 @@ You should see this message ( except the lack of upgrades if terraform is alread
 ### screenshot of .ignore along with terraform files
 ![gitignore](./hw6pictures/gitignore.png)
 
+## results from aws sts get-caller-identity
+![awsproviderstf](./hw6pictures/awsproviderstf.png)
 
-extra comment do not modify 
+
+**extra comment do not modify tfstate, .terraform.lock.hcl & .terraform folder. Messing them up with can break your infrastructure & will get you fired.** 
 
 
 
