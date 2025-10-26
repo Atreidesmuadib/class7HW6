@@ -53,7 +53,11 @@ You should see this message ( except the lack of upgrades if terraform is alread
 ![awsproviderstf](./hw6pictures/awsproviderstf.png)
 
 
+
 **extra comment do not modify tfstate, .terraform.lock.hcl & .terraform folder. Messing them up with can break your infrastructure & will get you fired.** 
+=======
+
+
 
 
 
