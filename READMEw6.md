@@ -50,7 +50,7 @@ You should see this message ( except the lack of upgrades if terraform is alread
 ![gitignore](./hw6pictures/gitignore.png)
 
 
-extra comment do not modify 
+extra comment do not modify tfstate,  .terraform.lock.hcl & .terraform folder. Messing them up with can break your infrastructure & will get you fired.
 
 
 
