@@ -83,11 +83,7 @@ You should see this message ( except the lack of upgrades if terraform is alread
 ## successful terraform apply
 ![terraformapply](./hw6pictures/terraformapply.png)
 
-### screenshot of .ignore along with terraform files
-![gitignore](./hw6pictures/gitignore.png)
 
-## results from aws sts get-caller-identity
-![awsproviderstf](./hw6pictures/awsproviderstf.png)
 
 
 
